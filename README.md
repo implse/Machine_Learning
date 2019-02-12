@@ -18,8 +18,21 @@ Supervised learning problems can be further grouped into regression and classifi
 
   - __Regression__ : A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
 
+For example:
+
+  - Predict the height of a potted plant from the amount of rainfall.
+  - Predict salary based on someone's age and availability of high-speed internet.
+  - Predict a car's MPG (miles per gallon) based on size and model year.
+
   - __Classification__ : A classification problem is when the output variable is a category, such as “red” or “blue” or “disease” and “no disease”.
 
+ Multi-label classification is when there are multiple possible outcomes. It is useful for customer segmentation, image categorization, and sentiment analysis for understanding text. To perform these classifications, we use models like Naive Bayes, K-Nearest Neighbors, and SVMs.
+
+For example:
+
+  - Predict whether an email is spam or not.
+  - Predict whether it will rain or not.
+  - Predict whether a user is a power user or a casual user.
 
 
 Some popular examples of supervised machine learning algorithms are:
