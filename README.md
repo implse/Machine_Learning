@@ -3,6 +3,8 @@
 
 Machine Learning is the science of programming computers so they can learn from data.
 
+Machine learning algorithms are used in the applications of email filtering, detection of network intruders, and computer vision, where it is infeasible to develop an algorithm of specific instructions for performing the task. _( Source : wikipedia )_
+
 
 ## Supervised and Unsupervised Machine Learning Algorithms
 
@@ -25,3 +27,16 @@ Some popular examples of supervised machine learning algorithms are:
   - Linear regression for regression problems.
   - Random forest for classification and regression problems.
   - Support vector machines for classification problems.
+
+## Clustering vs Association
+
+Unsupervised learning problems can be further grouped into clustering and association problems.
+
+  - __Clustering__ : A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing behavior.
+
+  - __Association__ :  An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
+
+Some popular examples of unsupervised learning algorithms are:
+
+  - k-means for clustering problems.
+  - Apriori algorithm for association rule learning problems.
