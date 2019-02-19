@@ -53,3 +53,14 @@ Some popular examples of unsupervised learning algorithms are:
 
   - k-means for clustering problems.
   - Apriori algorithm for association rule learning problems.
+
+
+## Normalization
+
+Normalizing your data is an essential part of machine learning. You might have an amazing dataset with many great features, but if you forget to normalize, one of those features might completely dominate the others. It's like you're throwing away almost all of your information! Normalizing solves this problem.
+
+Techniques to normalize:
+
+  - __Min-max normalization__: Guarantees all features will have the exact same scale but does not handle outliers well.
+
+  - __Z-score normalization__: Handles outliers, but does not produce normalized data with the exact same scale.
