@@ -12,6 +12,7 @@ __Supervised Learning__ : data is labeled and the program learns to predict the 
 
 __Unsupervised Learning__ : data is unlabeled and the program learns to recognize the inherent structure in the input data
 
+![title](image/Machine_Learning.png)
 ## Regression vs Classification
 
 Supervised learning problems can be further grouped into regression and classification problems.
