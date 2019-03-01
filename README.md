@@ -15,6 +15,8 @@ __Unsupervised Learning__ : data is unlabeled and the program learns to recogniz
 <p align="center">
   <img width="480" height="360" src="images\Machine_Learning.png">
 </p>
+
+
 ## Regression vs Classification
 
 Supervised learning problems can be further grouped into regression and classification problems.
