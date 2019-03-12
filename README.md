@@ -69,3 +69,15 @@ Techniques to normalize:
   - __Min-max normalization__: Guarantees all features will have the exact same scale but does not handle outliers well.
 
   - __Z-score normalization__: Handles outliers, but does not produce normalized data with the exact same scale.
+
+## Steps Involved in Machine Learning Project
+
+A machine learning project involves the following steps:
+
+  - Gathering Data
+  - Data preparation
+  - Choosing a model
+  - Training the model
+  - Evaluate the model
+  - Tune the model
+  - Make Predictions
