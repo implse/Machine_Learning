@@ -74,10 +74,10 @@ Techniques to normalize:
 
 A machine learning project involves the following steps:
 
-  - Gathering Data
+  - Gathering data
   - Data preparation
   - Choosing a model
   - Training the model
   - Evaluate the model
   - Tune the model
-  - Make Predictions
+  - Make predictions
