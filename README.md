@@ -72,12 +72,12 @@ Techniques to normalize:
 
 ## Steps Involved in Machine Learning Project
 
-A machine learning project involves the following steps:
+7 Steps of Machine Learning:
 
-  - Gathering data
-  - Data preparation
-  - Choosing a model
-  - Training the model
-  - Evaluate the model
-  - Tune the model
-  - Make predictions
+  - Gathering Data
+  - Preparing the Data
+  - Choosing a Model
+  - Training the Model
+  - Evaluate the Model
+  - Tune the Model
+  - Make Predictions
