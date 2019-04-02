@@ -12,9 +12,6 @@ __Supervised Learning__ : data is labeled and the program learns to predict the 
 
 __Unsupervised Learning__ : data is unlabeled and the program learns to recognize the inherent structure in the input data
 
-<p align="center">
-  <img width="640" height="480" src="images\Machine_Learning.png">
-</p>
 
 
 ## Regression vs Classification
