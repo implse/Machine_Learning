@@ -8,9 +8,9 @@ Machine learning algorithms are used in the applications of email filtering, det
 
 ## Supervised and Unsupervised Machine Learning Algorithms
 
-__Supervised Learning__ : data is labeled and the program learns to predict the output from the input data.
+`Supervised Learning` : data is labeled and the program learns to predict the output from the input data.
 
-__Unsupervised Learning__ : data is unlabeled and the program learns to recognize the inherent structure in the input data
+`Unsupervised Learning` : data is unlabeled and the program learns to recognize the inherent structure in the input data
 
 
 
@@ -18,7 +18,7 @@ __Unsupervised Learning__ : data is unlabeled and the program learns to recogniz
 
 Supervised learning problems can be further grouped into regression and classification problems.
 
-  - __Regression__ : A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+  - `Regression` : A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
 
 For example:
 
@@ -26,9 +26,9 @@ For example:
   - Predict salary based on someone's age and availability of high-speed internet.
   - Predict a car's MPG (miles per gallon) based on size and model year.
 
-  - __Classification__ : A classification problem is when the output variable is a category, such as “red” or “blue” or “disease” and “no disease”.
+  - `Classification` : A classification problem is when the output variable is a category, such as “red” or “blue” or “disease” and “no disease”.
 
- Multi-label classification is when there are multiple possible outcomes. It is useful for customer segmentation, image categorization, and sentiment analysis for understanding text. To perform these classifications, we use models like Naive Bayes, K-Nearest Neighbors, and SVMs.
+ Multi-label classification is when there are multiple possible outcomes. It is useful for customer segmentation, image categorization, and sentiment analysis for understanding text. To perform these classifications, we use models like `Naïve Bayes`, `K-Nearest Neighbors`, and `SVMs`.
 
 For example:
 
@@ -39,22 +39,22 @@ For example:
 
 Some popular examples of supervised machine learning algorithms are:
 
-  - Linear regression for regression problems.
-  - Random forest for classification and regression problems.
-  - Support vector machines for classification problems.
+  - `Linear regression` for regression problems.
+  - `Random forest` for classification and regression problems.
+  - `Support vector machines` for classification problems.
 
 ## Clustering vs Association
 
 Unsupervised learning problems can be further grouped into clustering and association problems.
 
-  - __Clustering__ : A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing behavior.
+  - `Clustering` : A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing behavior.
 
-  - __Association__ :  An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
+  - `Association` :  An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
 
 Some popular examples of unsupervised learning algorithms are:
 
-  - k-means for clustering problems.
-  - Apriori algorithm for association rule learning problems.
+  - `k-means` for clustering problems.
+  - `Apriori` algorithm for association rule learning problems.
 
 
 ## Normalization
@@ -63,9 +63,9 @@ Normalizing your data is an essential part of machine learning. You might have a
 
 Techniques to normalize:
 
-  - __Min-max normalization__: Guarantees all features will have the exact same scale but does not handle outliers well.
+  - `Min-max normalization`: Guarantees all features will have the exact same scale but does not handle outliers well.
 
-  - __Z-score normalization__: Handles outliers, but does not produce normalized data with the exact same scale.
+  - `Z-score normalization`: Handles outliers, but does not produce normalized data with the exact same scale.
 
 ## Steps Involved in Machine Learning Project
 
